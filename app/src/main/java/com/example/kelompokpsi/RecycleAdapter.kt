@@ -27,8 +27,11 @@ class RecycleAdapter(val items:MutableList<Biodata>) :
     inner class ViewHolder(itemView: ItemRowBinding) : RecyclerView.ViewHolder(itemView.root) {
         fun bind(item : Biodata) {
             binding.apply {
-                tvNIM.text = item.nim.toString()
+                fotoOrang.setImageResource(item.foto)
+                tvNIM.text = item.nim
                 tvNama.text = item.nama
+                tvHobi.text = item.hoby
+                tvJurusan.text = item.jurusan
             }
         }
     }

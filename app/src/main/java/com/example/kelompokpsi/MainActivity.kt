@@ -29,9 +29,16 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun addData() {
-        biodataList.add(Biodata(201,"Ivan"))
-        biodataList.add(Biodata(202,"rosa"))
-        biodataList.add(Biodata(203,"fayed"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+
     }
 
 }
