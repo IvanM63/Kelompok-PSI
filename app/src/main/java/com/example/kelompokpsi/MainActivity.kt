@@ -30,14 +30,14 @@ class MainActivity : AppCompatActivity() {
 
     fun addData() {
         biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.rosa_devi,"205150201111061","Rosa Devi Phutpitasari", "Bersepeda", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        /*biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
         biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
         biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
         biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
         biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))*/
 
     }
 
