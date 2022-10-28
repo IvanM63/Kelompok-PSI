@@ -29,16 +29,15 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun addData() {
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-        biodataList.add(Biodata(R.drawable.amogbob,"205150200111086","Ivan", "Bercocok Tanam", "Teknik Informatika - FILKOM UB"))
-
+        biodataList.add(Biodata(R.drawable.ivan,"205150200111086","Ivan Maulana Agusti", "Ngoding", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.rosa,"205150201111061","Rosa Devi Phutpitasari", "Bermain Game", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.fayed,"205150207111058","Muhammad Rafly Alfayed", "Kulineran", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.ivan,"205150200111086","Ivan Maulana Agusti", "Ngoding", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.rosa,"205150201111061","Rosa Devi Phutpitasari", "Bermain Game", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.fayed,"205150207111058","Muhammad Rafly Alfayed", "Kulineran", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.ivan,"205150200111086","Ivan Maulana Agusti", "Ngoding", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.rosa,"205150201111061","Rosa Devi Phutpitasari", "Bermain Game", "Teknik Informatika - FILKOM UB"))
+        biodataList.add(Biodata(R.drawable.fayed,"205150207111058","Muhammad Rafly Alfayed", "Kulineran", "Teknik Informatika - FILKOM UB"))
     }
 
 }
